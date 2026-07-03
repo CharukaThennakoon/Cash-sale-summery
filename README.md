@@ -60,4 +60,4 @@ Make sure you have Python 3 installed on your computer. (Tkinter and SQLite3 com
 ### Steps:
 1. Clone this repository or download the source code as a ZIP file.
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+   git clone [https://github.com/CharukaThennakoon/Cash-sale-summery.git]
