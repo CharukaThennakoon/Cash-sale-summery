@@ -17,7 +17,7 @@ The main purpose of this system is to simplify daily sales calculations. It allo
 > 💡 **Note:** Upload your application screenshots to GitHub and replace the placeholder URLs below with your actual image links.
 
 ### Main Dashboard
-![Main Dashboard](screenshots/dashboard.png)
+![Main Dashboard](screenshot/dashboard.png)
 
 ### Add New Bill Form
 ![Add Bill Form](https://via.placeholder.com/400x320.png?text=Add+Bill+Popup+Screenshot_Replace_With_Your_Link)
